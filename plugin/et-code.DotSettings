@@ -663,7 +663,7 @@ namespace ET
 {
       public class $CLASS$AwakeSystem: AwakeSystem&lt;$CLASS$&gt;
     {
-        public override void Awake($CLASS$Component self)
+        public override void Awake($CLASS$ self)
         {
             
         }
