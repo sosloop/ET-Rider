@@ -137,9 +137,9 @@ namespace $NAMESPACE$
 {
   [ComponentOf()]
   #if SERVER
-    public class $CLASS$Component:Entity,IAwake,IDestroy,IDeserialize,ITransfer,IUnitCache
+    public class $CLASS$:Entity,IAwake,IDestroy,IDeserialize,ITransfer,IUnitCache
 #else    
-    public class $CLASS$Component:Entity,IAwake,IDestroy
+    public class $CLASS$:Entity,IAwake,IDestroy
 #endif
  {
 #if SERVER
@@ -661,7 +661,7 @@ namespace ET
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
 {
-      public class $CLASS$ComponentAwakeSystem: AwakeSystem&lt;$CLASS$Component&gt;
+      public class $CLASS$AwakeSystem: AwakeSystem&lt;$CLASS$&gt;
     {
         public override void Awake($CLASS$Component self)
         {
@@ -669,17 +669,17 @@ namespace ET
         }
     }
 
-    public class $CLASS$ComponentDestroySystem: DestroySystem&lt;$CLASS$Component&gt;
+    public class $CLASS$DestroySystem: DestroySystem&lt;$CLASS$&gt;
     {
-        public override void Destroy($CLASS$Component self)
+        public override void Destroy($CLASS$ self)
         {
             
         }
     }
 	
-	public class $CLASS$ComponentDeserializeSystem : DeserializeSystem&lt;$CLASS$Component&gt;
+	public class $CLASS$DeserializeSystem : DeserializeSystem&lt;$CLASS$&gt;
     {
-        public override void Deserialize($CLASS$Component self)
+        public override void Deserialize($CLASS$ self)
         {
             foreach (Entity entity in self.Children.Values)
             {
@@ -688,10 +688,10 @@ namespace ET
         }
     }
 
-    [FriendClass(typeof($CLASS$Component))]
-    public static class $CLASS$ComponentSystem
+    [FriendClass(typeof($CLASS$))]
+    public static class $CLASS$System
     {
-		public static void Test(this $CLASS$Component self)
+		public static void Test(this $CLASS$ self)
         {
 		}
 		$END$
@@ -761,7 +761,7 @@ namespace ET
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF2D7345FBDFF54E90A7FB83CB66852E/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
 {
   [ComponentOf()]
-  public class $CLASS$Component :Entity,IAwake,IDestroy {$END$}
+  public class $CLASS$ :Entity,IAwake,IDestroy {$END$}
 }</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF2D7345FBDFF54E90A7FB83CB66852E/UITag/@EntryValue">ET/Component</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/@KeyIndexDefined">True</s:Boolean>
