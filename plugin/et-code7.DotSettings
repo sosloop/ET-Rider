@@ -5,51 +5,51 @@
 	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0923CF93F13AD84687E53C3F62946AC3/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0923CF93F13AD84687E53C3F62946AC3/EntryName/@EntryValue">ETEntityModel</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0923CF93F13AD84687E53C3F62946AC3/Position/@EntryValue">15</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0923CF93F13AD84687E53C3F62946AC3/Position/@EntryValue">14</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0B6FD3E5A702A14A893252126425BD48/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0B6FD3E5A702A14A893252126425BD48/EntryName/@EntryValue">ETComponent</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0B6FD3E5A702A14A893252126425BD48/Position/@EntryValue">13</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=0B6FD3E5A702A14A893252126425BD48/Position/@EntryValue">12</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=1D9F57034E71174289D271D3E90E3327/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=1D9F57034E71174289D271D3E90E3327/EntryName/@EntryValue">ETServerAMActorLocationRpcHandler</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=1D9F57034E71174289D271D3E90E3327/Position/@EntryValue">18</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=1D9F57034E71174289D271D3E90E3327/Position/@EntryValue">17</s:Int64>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=2CBD6971A7955044AD2624B84FB49E38/Position/@EntryValue">9</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=3718B876B1FF664F99463A0252242A99/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=3718B876B1FF664F99463A0252242A99/EntryName/@EntryValue">Class</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=3718B876B1FF664F99463A0252242A99/Position/@EntryValue">10</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=4E2BD1E62B8CD0419BEF8A3F557A47ED/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=4E2BD1E62B8CD0419BEF8A3F557A47ED/EntryName/@EntryValue">ETServerAMRpcHandler</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Position/@EntryValue">22</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Position/@EntryValue">20</s:Int64>
 	
 	
 	
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=567DCF4B487C244A9F6BB46E4E9F3B84/Position/@EntryValue">6</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=5AA379D7910849448F10F5FC71A84AD1/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=5AA379D7910849448F10F5FC71A84AD1/EntryName/@EntryValue">ETEvent</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=5AA379D7910849448F10F5FC71A84AD1/Position/@EntryValue">21</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=798F092B8B5E0444BAFC6DEC916DD8EE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=798F092B8B5E0444BAFC6DEC916DD8EE/EntryName/@EntryValue">ETEntityModel</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=798F092B8B5E0444BAFC6DEC916DD8EE/Position/@EntryValue">11</s:Int64>
+	
+	
+	
+	
+	
+	
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=7F2A1BE8D0078241A9AE7802038BAD3C/Position/@EntryValue">7</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=C0CEA7D33D68AF418821792C69A6D188/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=C0CEA7D33D68AF418821792C69A6D188/EntryName/@EntryValue">ETComponent</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=C0CEA7D33D68AF418821792C69A6D188/Position/@EntryValue">20</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=C0CEA7D33D68AF418821792C69A6D188/Position/@EntryValue">19</s:Int64>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=C4795E57DDEC1C4F97BBC8C7173EBBCA/Position/@EntryValue">8</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=CE92A60CBEB16C41A13526EBA5D6AC96/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=CE92A60CBEB16C41A13526EBA5D6AC96/EntryName/@EntryValue">ETComponentM</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=CE92A60CBEB16C41A13526EBA5D6AC96/Position/@EntryValue">14</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=CE92A60CBEB16C41A13526EBA5D6AC96/Position/@EntryValue">13</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=DF67509B54256442A52371E8C0621CFC/@KeyIndexDefined">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=E4CECB45A270FA41AEF2509D84F1A8B2/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=E4CECB45A270FA41AEF2509D84F1A8B2/EntryName/@EntryValue">ETComponent</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=E4CECB45A270FA41AEF2509D84F1A8B2/Position/@EntryValue">16</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=E4CECB45A270FA41AEF2509D84F1A8B2/Position/@EntryValue">15</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=EF2D7345FBDFF54E90A7FB83CB66852E/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=EF2D7345FBDFF54E90A7FB83CB66852E/EntryName/@EntryValue">ETEntityModelC</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=EF2D7345FBDFF54E90A7FB83CB66852E/Position/@EntryValue">12</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=EF2D7345FBDFF54E90A7FB83CB66852E/Position/@EntryValue">11</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=F4D1E052893D36418ACF8D13C45445C9/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=F4D1E052893D36418ACF8D13C45445C9/EntryName/@EntryValue">ETAMActorLocationHandler</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=F4D1E052893D36418ACF8D13C45445C9/Position/@EntryValue">17</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=F4D1E052893D36418ACF8D13C45445C9/Position/@EntryValue">16</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=FDD418FA69BEE943997EBF4CED9544BF/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=FDD418FA69BEE943997EBF4CED9544BF/EntryName/@EntryValue">ETServerAMActorRpcHandler</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=FDD418FA69BEE943997EBF4CED9544BF/Position/@EntryValue">19</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=FDD418FA69BEE943997EBF4CED9544BF/Position/@EntryValue">18</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
@@ -72,19 +72,22 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0923CF93F13AD84687E53C3F62946AC3/Text/@EntryValue">$HEADER$
+namespace $NAMESPACE$
 {
+        [ObjectSystem]
       public class $CLASS$AwakeSystem: AwakeSystem&lt;$CLASS$&gt;
     {
-        public override void Awake($CLASS$ self)
+        protected override void Awake($CLASS$ self)
         {
             
         }
     }
-
+    
+    [ObjectSystem]
     public class $CLASS$DestroySystem: DestroySystem&lt;$CLASS$&gt;
     {
-        public override void Destroy($CLASS$ self)
+        protected override void Destroy($CLASS$ self)
         {
             
         }
@@ -138,23 +141,11 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=0B6FD3E5A702A14A893252126425BD48/Text/@EntryValue">$HEADER$
 using System.Collections.Generic;
 
-#if SERVER
-using MongoDB.Bson.Serialization.Attributes;
-#endif
-
 namespace $NAMESPACE$
 {
   [ComponentOf()]
-  #if SERVER
     public class $CLASS$:Entity,IAwake,IDestroy,IDeserialize,ITransfer,IUnitCache
-#else    
-    public class $CLASS$:Entity,IAwake,IDestroy
-#endif
  {
-#if SERVER
-        [BsonIgnore]
-#endif
-    public int x = 1;
     $END$
  }
 }</s:String>
@@ -190,15 +181,16 @@ namespace $NAMESPACE$
 
 namespace ET
 {
+    [ActorMessageHandler(SceneType.Map)]
 	public class $NAME1$Handler : AMActorLocationRpcHandler&lt;Unit, $NAME1$, $NAME1$&gt;
 	{
-		protected override async ETTask Run(Unit unit, $NAME1$ request, $NAME1$ response, Action reply)
+		protected override async ETTask Run(Unit unit, $NAME1$ request, $NAME1$ response)
 		{
-			reply();
 			await ETTask.CompletedTask;
 		}
 	}
-}</s:String>
+}
+</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/Field/=NAME1/@KeyIndexDefined">True</s:Boolean>
@@ -209,10 +201,10 @@ namespace ET
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/Shortcut/@EntryValue">aATimer</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/Text/@EntryValue">    [Timer(TimerType.$NAME1$)]
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1ADC58A9DE00B1498225AA043782C254/Text/@EntryValue">    [Invoke(TimerInvokeType.$NAME1$)]
     public class $NAME1$Time: ATimer&lt;$NAME1$&gt;
     {
-        public override void Run($NAME1$ self)
+        protected override void Run($NAME1$ self)
         {
             
         }
@@ -253,16 +245,16 @@ namespace ET
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=Req/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=Req/Expression/@EntryValue">getEtHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=Req/Order/@EntryValue">4</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=Req/Order/@EntryValue">3</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=RESP/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=RESP/Expression/@EntryValue">getEtMessageHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=RESP/Order/@EntryValue">3</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Field/=RESP/Order/@EntryValue">2</s:Int64>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Image/@EntryValue">CSharp</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=1D9F57034E71174289D271D3E90E3327/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
@@ -272,13 +264,13 @@ namespace ET
 
 using System;
 
-namespace $NAMESPACE$
+namespace ET.Server
 {
+    [ActorMessageHandler(SceneType.LoginCenter)]
   	public class $CLASS$ : AMActorRpcHandler&lt;Scene, $Req$,$RESP$&gt;
 	{
-		protected override async ETTask Run(Scene scene, $Req$ request, $RESP$ response, Action reply)
+		protected override async ETTask Run(Scene scene, $Req$ request, $RESP$ response)
 		{
-		    reply();
 			await ETTask.CompletedTask;
 			$END$
 		}
@@ -302,12 +294,12 @@ namespace $NAMESPACE$
 
 namespace ET
 {
+    [ActorMessageHandler(SceneType.LoginCenter)]
     public class $NAME1$Handler: AMActorRpcHandler&lt;Scene, $NAME1$, $NAME1$&gt;
     {
-        protected override async ETTask Run(Scene scene, $NAME1$ request, $NAME1$ response, Action reply)
+        protected override async ETTask Run(Scene scene, $NAME1$ request, $NAME1$ response)
         {
             
-            reply();
             await ETTask.CompletedTask;
         }
     }
@@ -337,16 +329,17 @@ namespace ET
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	
+	
+	
+	
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Image/@EntryValue">CSharp</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3718B876B1FF664F99463A0252242A99/Text/@EntryValue">$HEADER$
+namespace ET
 {
   public class $CLASS$ :Entity,IAwake,IDestroy {$END$}
 }</s:String>
@@ -385,13 +378,13 @@ namespace ET
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=Req/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=Req/Expression/@EntryValue">getEtHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=Req/Order/@EntryValue">3</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4E2BD1E62B8CD0419BEF8A3F557A47ED/Field/=Req/Order/@EntryValue">2</s:Int64>
 	
 	
 	
@@ -404,12 +397,14 @@ namespace ET
 
 using System;
 
-namespace $NAMESPACE$
+namespace ET.Client
 {
+    [MessageHandler(SceneType.Client)]
   	public class $CLASS$ : AMHandler&lt;$Req$&gt;
 	{
-		protected override void Run(Session session, $Req$ message)
+		protected override async ETTask Run(Session session, $Req$ message)
 		{
+		await ETTask.CompletedTask;
 			$END$
 		}
 	}
@@ -432,6 +427,7 @@ namespace $NAMESPACE$
 
 namespace ET
 {
+    [MessageHandler(SceneType.Account)]
 	public class $NAME1$Handler : AMRpcHandler&lt;$NAME1$, $NAME1$&gt;
 	{
 		protected override async ETTask Run(Session session, $NAME1$ request, $NAME1$ response, Action reply)
@@ -451,9 +447,10 @@ namespace ET
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5544E3691127C0489376AA321B73D5B5/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5544E3691127C0489376AA321B73D5B5/Shortcut/@EntryValue">aAwakeSystem</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5544E3691127C0489376AA321B73D5B5/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5544E3691127C0489376AA321B73D5B5/Text/@EntryValue">    public class $NAME1$AwakeSystem: AwakeSystem&lt;$NAME1$&gt;
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5544E3691127C0489376AA321B73D5B5/Text/@EntryValue">    [ObjectSystem]
+    public class $NAME1$AwakeSystem: AwakeSystem&lt;$NAME1$&gt;
     {
-        public override void Awake($NAME1$ self)
+        protected override void Awake($NAME1$ self)
         {
         }
     }</s:String>
@@ -473,43 +470,56 @@ namespace ET
                 response.Error = ErrorCode.Err_RequestSceneTypeError;
                 return;
             }</s:String>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/@KeyIndexDefined">True</s:Boolean>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/CustomProperties/=FileName/@EntryIndexedValue">ETEventAsync</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Description/@EntryValue">&amp;ETEventAsync</s:String>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=CLASS/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=CLASS/Expression/@EntryValue">getAlphaNumericFileNameWithoutExtension()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=CLASS/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=CLASS/Order/@EntryValue">1</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=EventName/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=EventName/Expression/@EntryValue">getEtEventMethod()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=EventName/Order/@EntryValue">3</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Image/@EntryValue">CSharp</s:String>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Reformat/@EntryValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Field/=NAME1/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Field/=NAME1/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Shortcut/@EntryValue">aStaticAsyncHelpMethod</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=641F8700FD7BAF4BB306303D22FF290E/Text/@EntryValue">public static async ETTask&lt;int&gt; $NAME1$(Scene clientScene)
 {
-  public class $CLASS$ : AEventAsync&lt;EventType.$EventName$&gt; 
-  {
-    protected override async ETTask Run(EventType.$EventName$ args)
-        {
-        $END$
-        await ETTask.CompletedTask;
-        }
-  }
+    try
+    {
+
+    }
+    catch (Exception e)
+    {
+        Log.Error(e);
+        return ErrorCode.ERR_NetWorkError;
+    }
+    return ErrorCode.ERR_Success;
 }</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=5AA379D7910849448F10F5FC71A84AD1/UITag/@EntryValue">ET/Component</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FCA8C2F52776C4F8924332D24A99AD6/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FCA8C2F52776C4F8924332D24A99AD6/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=6FCA8C2F52776C4F8924332D24A99AD6/Reformat/@EntryValue">True</s:Boolean>
@@ -573,38 +583,30 @@ if ($msgResponse$.Error != ErrorCode.ERR_Success)
 	
 	
 	
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/@KeyIndexDefined">True</s:Boolean>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/CustomProperties/=FileName/@EntryIndexedValue">ETEntity</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Description/@EntryValue">&amp;ETEntityModelCS</s:String>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=CLASS/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=CLASS/Expression/@EntryValue">getAlphaNumericFileNameWithoutExtension()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=CLASS/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=CLASS/Order/@EntryValue">2</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Field/=NAMESPACE/Order/@EntryValue">1</s:Int64>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Image/@EntryValue">CSharp</s:String>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Reformat/@EntryValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
-{
-  #if SERVER
-    public class $CLASS$:Entity,IAwake,IDestroy,ISerializeToEntity
-#else
-    public class $CLASS$:Entity,IAwake,IDestroy
-#endif
-  {$END$}
-}</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=798F092B8B5E0444BAFC6DEC916DD8EE/UITag/@EntryValue">ET/Entity</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/Field/=NAME1/@KeyIndexDefined">True</s:Boolean>
@@ -615,9 +617,10 @@ if ($msgResponse$.Error != ErrorCode.ERR_Success)
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/Shortcut/@EntryValue">aDeserializeSystem</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/Text/@EntryValue">    public class $NAME1$DeserializeSystem : DeserializeSystem&lt;$NAME1$&gt;
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7EFD46F337FF5B4290718ED3A7A000FD/Text/@EntryValue">        [ObjectSystem]
+    public class $NAME1$DeserializeSystem : DeserializeSystem&lt;$NAME1$&gt;
     {
-        public override void Deserialize($NAME1$ self)
+        protected override void Deserialize($NAME1$ self)
         {
             foreach (Entity entity in self.Children.Values)
             {
@@ -668,12 +671,15 @@ if ($msgResponse$.Error != ErrorCode.ERR_Success)
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A539C2EFD5FBB543BC4AEA4FE1AB1A37/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A539C2EFD5FBB543BC4AEA4FE1AB1A37/Shortcut/@EntryValue">aDestroySystem</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A539C2EFD5FBB543BC4AEA4FE1AB1A37/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A539C2EFD5FBB543BC4AEA4FE1AB1A37/Text/@EntryValue">    public class $NAME1$DestroySystem: DestroySystem&lt;$NAME1$&gt;
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A539C2EFD5FBB543BC4AEA4FE1AB1A37/Text/@EntryValue">
+        [ObjectSystem]
+    public class $NAME1$DestroySystem: DestroySystem&lt;$NAME1$&gt;
     {
-        public override void Destroy($NAME1$ self)
+        protected override void Destroy($NAME1$ self)
         {
         }
-    }</s:String>
+    }
+</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
@@ -686,25 +692,28 @@ if ($msgResponse$.Error != ErrorCode.ERR_Success)
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=CLASS/Order/@EntryValue">1</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=EventName/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=EventName/Expression/@EntryValue">getEtEventMethod()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=EventName/Order/@EntryValue">3</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=EventName/Order/@EntryValue">2</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	
+	
+	
+	
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Image/@EntryValue">CSharp</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=C0CEA7D33D68AF418821792C69A6D188/Text/@EntryValue">$HEADER$
+namespace ET.Client
 {
+[Event(SceneType.Client)]
   public class $CLASS$ : AEvent&lt;EventType.$EventName$&gt; 
   {
-    protected override void Run(EventType.$EventName$ args)
+    protected override async ETTask Run(Scene scene, EventType.$EventName$ args)
         {
+        await ETTask.CompletedTask;
         $END$
         }
   }
@@ -724,7 +733,7 @@ if ($msgResponse$.Error != ErrorCode.ERR_Success)
 
 namespace ET
 {
-	[ActorMessageHandler]
+	[ActorMessageHandler(SceneType.Map)]
 	public class $NAME1$Handler : AMActorLocationHandler&lt;Unit, $NAME1$&gt;
 	{
 		protected override async ETTask Run(Unit unit, $NAME1$ message)
@@ -784,27 +793,29 @@ namespace ET
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/Text/@EntryValue">$HEADER$
+namespace $NAMESPACE$
 {
+    [ObjectSystem]
       public class $CLASS$AwakeSystem: AwakeSystem&lt;$CLASS$&gt;
     {
-        public override void Awake($CLASS$ self)
+        protected override void Awake($CLASS$ self)
         {
             
         }
     }
-
+    [ObjectSystem]
     public class $CLASS$DestroySystem: DestroySystem&lt;$CLASS$&gt;
     {
-        public override void Destroy($CLASS$ self)
+        protected override void Destroy($CLASS$ self)
         {
             
         }
     }
-	
+	[ObjectSystem]
 	public class $CLASS$DeserializeSystem : DeserializeSystem&lt;$CLASS$&gt;
     {
-        public override void Deserialize($CLASS$ self)
+        protected override void Deserialize($CLASS$ self)
         {
             foreach (Entity entity in self.Children.Values)
             {
@@ -813,7 +824,7 @@ namespace ET
         }
     }
 
-    [FriendClass(typeof($CLASS$))]
+    [FriendOf(typeof($CLASS$))]
     public static class $CLASS$System
     {
 		public static void Test(this $CLASS$ self)
@@ -821,7 +832,8 @@ namespace ET
 		}
 		$END$
 	}
-}</s:String>
+}
+</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=CE92A60CBEB16C41A13526EBA5D6AC96/UITag/@EntryValue">ET/Component</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=DF67509B54256442A52371E8C0621CFC/@KeyIndexDefined">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/@KeyIndexDefined">True</s:Boolean>
@@ -839,18 +851,20 @@ namespace ET
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=HEADER/Order/@EntryValue">0</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=MSG/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=MSG/Expression/@EntryValue">getEtHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=MSG/Order/@EntryValue">3</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Field/=MSG/Order/@EntryValue">2</s:Int64>
+	
+	
+	
+	
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Image/@EntryValue">CSharp</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E4CECB45A270FA41AEF2509D84F1A8B2/Text/@EntryValue">$HEADER$
+namespace ET.Server
 {
+    [ActorMessageHandler(SceneType.Map)]
   	public class $CLASS$ : AMActorLocationHandler&lt;Unit, $MSG$&gt;
 	{
 		protected override async ETTask Run(Unit unit, $MSG$ message)
@@ -883,7 +897,8 @@ namespace ET
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF2D7345FBDFF54E90A7FB83CB66852E/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF2D7345FBDFF54E90A7FB83CB66852E/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF2D7345FBDFF54E90A7FB83CB66852E/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF2D7345FBDFF54E90A7FB83CB66852E/Text/@EntryValue">$HEADER$namespace $NAMESPACE$
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF2D7345FBDFF54E90A7FB83CB66852E/Text/@EntryValue">$HEADER$
+namespace $NAMESPACE$
 {
   [ComponentOf()]
   public class $CLASS$ :Entity,IAwake,IDestroy {$END$}
@@ -902,16 +917,16 @@ namespace ET
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Req/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Req/Expression/@EntryValue">getEtHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Req/Order/@EntryValue">4</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Req/Order/@EntryValue">3</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Resp/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Resp/Expression/@EntryValue">getEtMessageHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Resp/Order/@EntryValue">3</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Field/=Resp/Order/@EntryValue">2</s:Int64>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Image/@EntryValue">CSharp</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F4D1E052893D36418ACF8D13C45445C9/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
@@ -921,13 +936,13 @@ namespace ET
 
 using System;
 
-namespace $NAMESPACE$
+namespace ET.Server
 {
+    [ActorMessageHandler(SceneType.Map)]
   	public class $CLASS$ : AMActorLocationRpcHandler&lt;Unit, $Req$,$Resp$&gt;
 	{
-		protected override async ETTask Run(Unit unit, $Req$ request, $Resp$ response, Action reply)
+		protected override async ETTask Run(Unit unit, $Req$ request, $Resp$ response)
 		{
-		    reply();
 			await ETTask.CompletedTask;
 			$END$
 		}
@@ -947,16 +962,16 @@ namespace $NAMESPACE$
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=HEADER/Order/@EntryValue">0</s:Int64>
-	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=NAMESPACE/Expression/@EntryValue">getDefaultNamespace()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=Req/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=Req/Expression/@EntryValue">getEtHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=Req/Order/@EntryValue">4</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=Req/Order/@EntryValue">3</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=RESP/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=RESP/Expression/@EntryValue">getEtMessageHandlerName()</s:String>
-	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=RESP/Order/@EntryValue">3</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Field/=RESP/Order/@EntryValue">2</s:Int64>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Image/@EntryValue">CSharp</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=FDD418FA69BEE943997EBF4CED9544BF/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
@@ -966,13 +981,13 @@ namespace $NAMESPACE$
 
 using System;
 
-namespace $NAMESPACE$
+namespace ET.Server
 {
+    [MessageHandler(SceneType.Account)]
   	public class $CLASS$ : AMRpcHandler&lt;$Req$,$RESP$&gt;
 	{
-		protected override async ETTask Run(Session session, $Req$ request, $RESP$ response, Action reply)
+		protected override async ETTask Run(Session session, $Req$ request, $RESP$ response)
 		{
-		    reply();
 			await ETTask.CompletedTask;
 			$END$
 		}
