@@ -1,0 +1,21 @@
+<idea-plugin require-restart="true">
+  <id>com.jetbrains.rider.plugins.et</id>
+  <name>ET7-CodeTip</name>
+  <version>_PLACEHOLDER_</version>
+  <vendor url="https://github.com/sosloop/ET-Rider">Author</vendor>
+  <idea-version since-build="_PLACEHOLDER_" until-build="_PLACEHOLDER_" />
+  <depends>com.intellij.modules.rider</depends>
+
+<!--  <extensions defaultExtensionNs="com.intellij">-->
+<!--    <projectConfigurable parentId="FileTemplatesSettingsId" instance="com.jetbrains.rider.plugins.etplugin.ETFileTemplatesOptionPage" groupWeight="-120" />-->
+<!--    <projectConfigurable parentId="LiveTemplatesSettingsId" instance="com.jetbrains.rider.plugins.etplugin.ETLiveTemplatesOptionPage" groupWeight="-120" />-->
+
+<!--  </extensions>-->
+
+  <description>
+<![CDATA[
+<p>This is a code prompt plug-in based on github open source framework https://github.com/egametang/ET,For specific demonstration, please see the author's github https://github.com/sosloop/ET-Rider</p>
+]]>
+  </description>
+
+</idea-plugin>

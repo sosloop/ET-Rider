@@ -1,5 +1,10 @@
 # 基于Rider快速生成ET代码
-## 插件版本 rider-2019.1 到 rider-2022.2
+
+## plugin 文件夹
+插件版本 rider-2019.1 到 rider-2022.1
+
+## plugin-2022.2 文件夹
+插件版本 rider-2022.2 到 最新
 
 # 1.先装插件，再导入模板 
 ## 安装本地插件
@@ -30,3 +35,7 @@
 ![Screen Cast](https://github.com/sosloop/ET-Rider/blob/main/gif/NewHandler.gif)
 
 ![Screen Cast](https://github.com/sosloop/ET-Rider/blob/main/gif/NewMethod.gif)
+
+# 6.参考
+
+https://github.com/citizenmatt/resharper-template-compiler
