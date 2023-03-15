@@ -6,6 +6,8 @@
 ## plugin-2022.2 文件夹
 插件版本 rider-2022.2 到 最新
 
+ReSharperPlugin.MyAwesomePlugin-自动导入-1.0.4.zip 不需要手动导入*.DotSetting文件
+
 # 1.先装插件，再导入模板 
 ## 安装本地插件
 **plugin**文件夹下 **corkiplugin-1.0.1.zip**

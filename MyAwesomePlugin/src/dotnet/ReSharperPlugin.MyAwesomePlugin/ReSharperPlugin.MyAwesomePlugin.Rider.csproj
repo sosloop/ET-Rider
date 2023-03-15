@@ -17,6 +17,12 @@
   <ItemGroup>
     <PackageReference Include="JetBrains.Rider.SDK" Version="$(SdkVersion)" />
   </ItemGroup>
+  
+  	<ItemGroup Label="Live templates">
+		<EmbeddedResource Include="Templates\et7.dotSettings">
+		  <LogicalName>et7.dotSettings</LogicalName>
+		</EmbeddedResource>
+	  </ItemGroup>
 
   <!-- TODO: uncomment for xaml icons -->
   <!--<ItemGroup>-->
